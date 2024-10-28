@@ -5,9 +5,6 @@
         "https://lenta.ru/rubrics/russia/",
         "https://www.rbc.ru/tags/?tag=Россия"
     ],
-    
-    "radio": [
-        "https://top-radio.ru/web",
-        "https://topradio.me/"
-    ]
+
+    "radio": ["https://top-radio.ru/web", "https://topradio.me/"]
 }

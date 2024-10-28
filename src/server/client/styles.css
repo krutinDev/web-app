@@ -9,7 +9,6 @@ body {
     background-color: #f0f0f0;
 }
 
-
 .container {
     background-color: #fff;
     padding: 20px;
@@ -19,13 +18,11 @@ body {
     text-align: center;
 }
 
-
 input[type="text"] {
     width: calc(100% - 20px);
     padding: 10px;
     margin-bottom: 10px;
 }
-
 
 button {
     padding: 10px;
@@ -37,12 +34,27 @@ button {
     cursor: pointer;
 }
 
-
 button:hover {
     background-color: #0056b3;
 }
 
-
 #url-list, #download-status, #content-display {
     margin-top: 20px;
+}
+
+.contact-info {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #4ea4ff;
+    border-radius: 5px;
+    color: rgb(0, 0, 0);
+}
+
+.contact-info h2 {
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+
+.contact-info p {
+    margin: 5px 0;
 }
